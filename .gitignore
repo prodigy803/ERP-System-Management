@@ -1,0 +1,3 @@
+Application Code/config.py
+*.pyc
+.DS_Store
